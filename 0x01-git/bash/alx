@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+HEAD
 echo "ALX" > echo "ALX_School_is_so_cool!"
-=======
 #!bin/bash
->>>>>>> 1a63762976f4e294931699e9c4c1168df7b680ca
+1a63762976f4e294931699e9c4c1168df7b680ca
 ALX
